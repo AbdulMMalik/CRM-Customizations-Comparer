@@ -3,22 +3,22 @@ This tool is a plugin of XrmToolBox that helps to compare customizations of two 
 ![alt text](https://raw.githubusercontent.com/AbdulMMalik/CRM-Customizations-Comparer/main/photos/sourceandtarget.png)
 
 
-This are two ways to compare customizations. To compare all components of source and target select the first option
+This tool provides two ways to compare customizations. To compare all components of source and target select the first option
 ![alt text](https://raw.githubusercontent.com/AbdulMMalik/CRM-Customizations-Comparer/main/photos/compareallcomponents.png)
 
-To compare selected components of a solution select the 2nd option. You must provide a uniqu solution name of source in this option.
+To compare components of a specific solution select the 2nd option. You must provide a solution unique name of source in this option.
 ![alt text](https://raw.githubusercontent.com/AbdulMMalik/CRM-Customizations-Comparer/main/photos/sourcecomponentcomparison.png)
 
 
 Once you are connected with source and target ```Start Comparison``` button will get enabled. Upon click, it will start fetching customizations from both instances and will show the results.
 ![alt text](https://raw.githubusercontent.com/AbdulMMalik/CRM-Customizations-Comparer/main/photos/startcomparison.png)
 
-Comparison results will be shown in another window once the customizations are successfully fetched. Results can also be exported in to Excel sheet as well.
+Comparison results will be shown on another window once the customizations are successfully fetched. Results can also be exported in to Excel sheet.
 ![alt text](https://raw.githubusercontent.com/AbdulMMalik/CRM-Customizations-Comparer/main/photos/results.png)
 
 
 ### Features
-Following are the component types that can be compared in version 1.0.1.2:
+Following are the component types that can be compared in this version 1.0.1.2:
 - Entities Metadata
 - Entity Forms
 - Entity Relationships
@@ -26,4 +26,4 @@ Following are the component types that can be compared in version 1.0.1.2:
 - Webresources (HTML, JS, CSS) Metadata
 
 
-Features that are strikethrough will be functional in later releases.
+Features that are strikethrough will be implemented in later releases.
