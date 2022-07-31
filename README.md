@@ -1,4 +1,4 @@
-### CRM Customizations Comparer - 1.0.1.2
+### CRM Customizations Comparer - 1.0.1.3
 This tool is a plugin of XrmToolBox that helps to compare customizations of two CRM environments (Source & Target). Source would be the one with which XrmToolBox is connected and to connect with Target this tool provides a button in the ribbon.
 ![alt text](https://raw.githubusercontent.com/AbdulMMalik/CRM-Customizations-Comparer/main/photos/sourceandtarget.png)
 
@@ -18,7 +18,7 @@ Comparison results will be shown in another window once the customizations are s
 
 
 ### Features
-Following are the component types for which comparison is implemented in this version => 1.0.1.2:
+Following are the component types for which comparison is implemented in this version => 1.0.1.3:
 - Entities Metadata
 - Entity Forms
 - Entity Relationships
